@@ -8,3 +8,6 @@ To demonstrate a basic client-server using MySQL Relational Database Management 
 Create and configure two Linux-based virtual servers (EC2 instances in AWS).
 Server A name - `mysql server`
 Server B name - `mysql client`
+
+<img width="813" alt="Screenshot 2023-07-25 172113" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/25a92fb1-90bd-465f-a649-d8d1be730248">
+
