@@ -14,4 +14,6 @@ Server B name - `mysql client`
 ## On mysql server Linux Server install MySQL Server software.
 
 sudo apt update -y
+<img width="875" alt="Screenshot 2023-07-25 174453" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/f6ecfe6c-f63b-43af-aa95-f7dfac703614">
+
 
