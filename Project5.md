@@ -70,6 +70,11 @@ exit
 
 
 
+## You might need to configure MySQL server to allow connections from remote hosts.
+sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf
+Replace ‘127.0.0.1’ to ‘0.0.0.0’ like this:
+
+
 
 
 
