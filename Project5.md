@@ -49,6 +49,8 @@ $ sudo mysql
  
 
 $ sudo mysql_secure_installation
+<img width="478" alt="Screenshot 2023-07-25 221652" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/986824a4-8710-481f-aa5f-47d83141e3d9">
+
 
 
 
