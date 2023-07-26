@@ -58,8 +58,7 @@ CREATE USER 'remote_user'@'%' IDENTIFIED WITH mysql_native_password BY 'password
 CREATE DATABASE test_db;
 <img width="295" alt="Screenshot 2023-07-26 130623" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/a9621dbf-a501-4b3f-b684-c5cbee6ef36f">
 
-
-
+GRANT ALL ON test_db.* TO 'remote_user'@'%' WITH GRANT OPTION;
 
 
 
