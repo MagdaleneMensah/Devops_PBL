@@ -20,6 +20,7 @@ sudo apt install mysql-server -y
 <img width="929" alt="Screenshot 2023-07-25 185939" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/4279b6ff-8f6a-4452-bf5b-1b53c72a2c6d">
 
 sudo systemctl enable mysql
+<img width="758" alt="Screenshot 2023-07-25 190631" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/fe90b2e4-12fe-4230-8147-a27b8ef520ca">
 
 
 
