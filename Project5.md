@@ -23,6 +23,7 @@ sudo apt install mysql-server -y
 
 
 sudo systemctl enable mysql
+<img width="475" alt="Screenshot 2023-07-26 075459" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/8145df6d-64f2-4cb9-a74b-142f583c6785">
 
 
 ## On mysql client Linux Server install MySQL Client software.
