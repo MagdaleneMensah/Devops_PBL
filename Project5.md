@@ -80,6 +80,10 @@ sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf
 <img width="256" alt="Screenshot 2023-07-26 172050" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/433fd7ef-aa6e-44c2-a524-8ffaf820528f">
 
 sudo systemctl restart mysql
+<img width="473" alt="Screenshot 2023-07-26 175110" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/f4de2014-d33b-4797-8dc0-1f57c918492d">
+
+
+
 
 
 
