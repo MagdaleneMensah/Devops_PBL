@@ -53,8 +53,13 @@ $ sudo mysql
 <img width="409" alt="Screenshot 2023-07-26 124508" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/4684c372-e56b-4869-8b86-7699b14dfd94">
 
 CREATE USER 'remote_user'@'%' IDENTIFIED WITH mysql_native_password BY 'password';
-
 <img width="470" alt="Screenshot 2023-07-26 130226" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/8d716e48-80b1-41e5-85ff-7ccc6c6e7e9e">
+
+CREATE DATABASE test_db;
+<img width="295" alt="Screenshot 2023-07-26 130623" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/a9621dbf-a501-4b3f-b684-c5cbee6ef36f">
+
+
+
 
 
 
