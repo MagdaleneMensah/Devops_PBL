@@ -14,7 +14,7 @@ Server B name - `mysql client`
 ## On mysql server Linux Server install MySQL Server software.
 
 sudo apt update -y
-<img width="875" alt="Screenshot 2023-07-25 174453" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/f6ecfe6c-f63b-43af-aa95-f7dfac703614">
+
 
 sudo apt install mysql-server -y
 <img width="929" alt="Screenshot 2023-07-25 185939" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/4279b6ff-8f6a-4452-bf5b-1b53c72a2c6d">
@@ -38,20 +38,10 @@ sudo apt install mysql-client -y
 
 ## In the mysql-server run a security script that comes pre-installed with MySQL
 
-$ sudo mysql
-<img width="472" alt="Screenshot 2023-07-25 202055" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/be227c5f-fede-4ebd-9a29-f74f7e3e762f">
-
- ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PassWord.1';
- <img width="468" alt="image" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/2ed1ba15-4f97-4234-9d51-7c5d0016ed07">
-
- mysql> exit
-<img width="193" alt="Screenshot 2023-07-25 210206" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/1538e3f7-1a59-41b3-a394-613e18c94b8a"> 
- 
-
 $ sudo mysql_secure_installation
 <img width="478" alt="Screenshot 2023-07-25 221652" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/986824a4-8710-481f-aa5f-47d83141e3d9">
 
-sudo mysql
+
 
 
 
