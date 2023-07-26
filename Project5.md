@@ -90,6 +90,8 @@ sudo mysql -u remote_user -h 172.31.42.92 -p
 ## Check that you have successfully connected to a remote MySQL server and can perform SQL queries:
 
 Show databases;
+<img width="185" alt="Screenshot 2023-07-26 181428" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/2aa487d2-9348-408f-9a2e-6686ab0c34c3">
+
 
 
 
