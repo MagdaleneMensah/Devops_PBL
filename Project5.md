@@ -38,14 +38,13 @@ sudo apt install mysql-client -y
 
 ## In the mysql-server run a security script that comes pre-installed with MySQL
 
-sudo mysql
+$ sudo mysql
 <img width="472" alt="Screenshot 2023-07-25 202055" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/be227c5f-fede-4ebd-9a29-f74f7e3e762f">
 
  ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PassWord.1';
+ <img width="468" alt="image" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/2ed1ba15-4f97-4234-9d51-7c5d0016ed07">
 
-
-
-sudo mysql_secure_installtion
+$ sudo mysql_secure_installtion
 
 
 
