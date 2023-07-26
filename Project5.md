@@ -77,6 +77,8 @@ sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf
 
 
 ## Replace ‘127.0.0.1’ to ‘0.0.0.0’ like this:
+<img width="256" alt="Screenshot 2023-07-26 172050" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/433fd7ef-aa6e-44c2-a524-8ffaf820528f">
+
 
 
 
