@@ -44,6 +44,9 @@ $ sudo mysql
  ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PassWord.1';
  <img width="468" alt="image" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/2ed1ba15-4f97-4234-9d51-7c5d0016ed07">
 
+ mysql> exit
+ 
+
 $ sudo mysql_secure_installtion
 
 
