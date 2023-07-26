@@ -87,6 +87,10 @@ sudo systemctl restart mysql
 sudo mysql -u remote_user -h 172.31.42.92 -p
 <img width="475" alt="Screenshot 2023-07-26 180350" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/77b8e0a5-d722-4ac6-9dee-bc7b36753d21">
 
+## Check that you have successfully connected to a remote MySQL server and can perform SQL queries:
+
+Show databases;
+
 
 
 
