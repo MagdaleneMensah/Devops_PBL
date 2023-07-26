@@ -62,6 +62,8 @@ GRANT ALL ON test_db.* TO 'remote_user'@'%' WITH GRANT OPTION;
 <img width="459" alt="Screenshot 2023-07-26 131543" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/246e5221-0536-4ab5-83d7-cfe61b52ace6">
 
 FLUSH PRIVILEGES;
+<img width="303" alt="Screenshot 2023-07-26 132007" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/49418b70-0087-4e2f-9e36-5bcff318111f">
+
 
 
 
