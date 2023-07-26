@@ -47,7 +47,7 @@ $ sudo mysql
  mysql> exit
  
 
-$ sudo mysql_secure_installtion
+$ sudo mysql_secure_installation
 
 
 
