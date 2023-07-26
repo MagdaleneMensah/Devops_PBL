@@ -24,6 +24,10 @@ sudo systemctl enable mysql
 
 ## On mysql client Linux Server install MySQL Client software.
 
+sudo apt update -y
+
+
+
 
 
 
