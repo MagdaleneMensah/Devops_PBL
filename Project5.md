@@ -35,9 +35,9 @@ sudo apt install mysql-client -y
 <img width="472" alt="Screenshot 2023-07-25 193003" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/d326b1b1-89e0-446f-af17-b91e2bf95c36">
 
 
-## By default, both of your EC2 virtual servers are located in the same local virtual network, so they can communicate to each other using local IP addresses. Use mysql server's local IP address to connect from mysql client. MySQL server uses TCP port 3306 by default, so you will have to open it by creating a new entry in ‘Inbound rules’ in ‘mysql server’ Security Groups. For extra security, do not allow all IP addresses to reach your ‘mysql server’ – allow access only to the specific local IP address of your ‘mysql client’.
+## By default, both of your EC2 virtual servers are located in the same local virtual network, so they can communicate to each other using local IP addresses. Use mysql server's local IP address to connect from mysql client. MySQL server uses TCP port 3306 by default, so you will have to open it by creating a new entry in ‘Inbound rules’ in ‘mysql server’ Security Groups. For extra security, do not allow all IP addresses to reach your ‘mysql server’ – allow access only to the specific local IP address of your ‘mysql client’
 
-<img width="484" alt="Screenshot 2023-07-25 200744" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/4ce44a5e-bb72-4264-9078-16cfde0653a4">
+<img width="836" alt="Screenshot 2023-07-26 083544" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/083456a3-777d-42c8-80c7-72f194b927b9">
 
 
 ## In the mysql-server run a security script that comes pre-installed with MySQL
