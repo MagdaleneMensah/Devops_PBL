@@ -16,4 +16,8 @@ Server B name - `mysql client`
 sudo apt update -y
 <img width="875" alt="Screenshot 2023-07-25 174453" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/f6ecfe6c-f63b-43af-aa95-f7dfac703614">
 
+sudo apt install mysql-server -y
+<img width="929" alt="Screenshot 2023-07-25 185939" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/4279b6ff-8f6a-4452-bf5b-1b53c72a2c6d">
+
+
 
