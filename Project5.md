@@ -45,6 +45,7 @@ $ sudo mysql
  <img width="468" alt="image" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/2ed1ba15-4f97-4234-9d51-7c5d0016ed07">
 
  mysql> exit
+<img width="193" alt="Screenshot 2023-07-25 210206" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/1538e3f7-1a59-41b3-a394-613e18c94b8a"> 
  
 
 $ sudo mysql_secure_installation
