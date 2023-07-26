@@ -82,6 +82,10 @@ sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf
 sudo systemctl restart mysql
 <img width="473" alt="Screenshot 2023-07-26 175110" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/f4de2014-d33b-4797-8dc0-1f57c918492d">
 
+## From mysql client Linux Server connect remotely to mysql server Database Engine without using SSH. You must use the mysql utility to perform this action.
+
+sudo mysql -u remote_user -h 172.31.42.92 -p
+
 
 
 
