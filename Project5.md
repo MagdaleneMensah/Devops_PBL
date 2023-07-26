@@ -65,6 +65,9 @@ FLUSH PRIVILEGES;
 <img width="303" alt="Screenshot 2023-07-26 132007" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/49418b70-0087-4e2f-9e36-5bcff318111f">
 
 
+exit
+
+
 
 
 
