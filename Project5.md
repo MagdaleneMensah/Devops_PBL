@@ -54,6 +54,11 @@ $ sudo mysql
 
 CREATE USER 'remote_user'@'%' IDENTIFIED WITH mysql_native_password BY 'password';
 
+<img width="470" alt="Screenshot 2023-07-26 130226" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/8d716e48-80b1-41e5-85ff-7ccc6c6e7e9e">
+
+
+
+
 
 
 
