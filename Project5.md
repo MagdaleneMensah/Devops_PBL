@@ -23,15 +23,18 @@ sudo apt install mysql-server -y
 
 
 sudo systemctl enable mysql
+
 <img width="475" alt="Screenshot 2023-07-26 075459" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/8145df6d-64f2-4cb9-a74b-142f583c6785">
 
 
 ## On mysql client Linux Server install MySQL Client software.
 
 sudo apt update -y
+
 <img width="472" alt="Screenshot 2023-07-25 192241" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/f345512f-4181-4f09-b46d-ea41d4846c26">
 
 sudo apt install mysql-client -y
+
 <img width="472" alt="Screenshot 2023-07-25 193003" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/d326b1b1-89e0-446f-af17-b91e2bf95c36">
 
 
@@ -43,7 +46,10 @@ sudo apt install mysql-client -y
 ## In the mysql-server run a security script that comes pre-installed with MySQL
 
 $ sudo mysql_secure_installation
-<img width="478" alt="Screenshot 2023-07-25 221652" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/986824a4-8710-481f-aa5f-47d83141e3d9">
+
+<img width="473" alt="Screenshot 2023-07-26 084252" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/6af5605a-5605-4fd5-9fa1-61aced7f5ea4">
+
+
 
 
 
