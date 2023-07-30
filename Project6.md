@@ -39,3 +39,6 @@ In previous projects we used ‘Ubuntu’, but it is better to be well-versed wi
 Note: for Ubuntu server, when connecting to it via SSH/Putty or any other tool, we used ubuntu user, but for RedHat you will need to use ec2-user user. Connection string will look like ec2-user@<Public-IP>
 
 Let us get started!
+
+## Step 1 — Prepare a Web Server
+Launch an EC2 instance that will serve as “Web Server”. Create 3 volumes in the same AZ as your Web Server EC2, each of 10 GiB.
