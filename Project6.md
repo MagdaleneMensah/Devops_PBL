@@ -51,5 +51,9 @@ Use lsblk command to inspect what block devices are attached to the server. Noti
 
 <img width="469" alt="Screenshot 2023-07-30 181642" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/f70d318c-72ef-4b96-8803-34aa2c40a2ba">
 
+Use df -h command to see all mounts and free space on your server
+
+
+
 
 
