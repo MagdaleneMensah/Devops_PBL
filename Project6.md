@@ -42,3 +42,6 @@ Let us get started!
 
 ## Step 1 — Prepare a Web Server
 Launch an EC2 instance that will serve as “Web Server”. Create 3 volumes in the same AZ as your Web Server EC2, each of 10 GiB.
+
+<img width="830" alt="Screenshot 2023-07-30 150252" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/604acbec-715e-49e7-927d-84a5c28a2c70">
+
