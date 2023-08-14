@@ -14,6 +14,8 @@ Three-tier Architecture
 Generally, web, or mobile solutions are implemented based on what is called the Three-tier Architecture.
 
 Three-tier Architecture is a client-server software architecture pattern that comprise of 3 separate layers.
+<img width="557" alt="Screenshot 2023-08-13 135708" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/869fd3c0-d585-47c3-99ea-8194285ee769">
+
 
     
 
