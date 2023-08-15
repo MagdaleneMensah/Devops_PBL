@@ -130,3 +130,4 @@ Verify that your VG has been created successfully by running
 ```bash
 sudo vgs
 ```
+<img width="328" alt="Screenshot 2023-08-15 175748" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/27e3ffcb-207e-4c20-b9fd-528a7e67e2cc">
