@@ -76,6 +76,11 @@ df -h
 ```
 <img width="370" alt="Screenshot 2023-08-14 220705" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/2b61d08a-136b-480b-9689-588271daef8a">
 
+Use gdisk utility to create a single partition on each of the 3 disks
+```bash
+sudo gdisk /dev/xvdf
+```
+
 
 
 
