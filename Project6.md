@@ -85,5 +85,7 @@ sudo gdisk /dev/xvdf
 ```bash
 sudo gdisk /dev/xvdg
 ```
+<img width="449" alt="Screenshot 2023-08-15 123343" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/80ff63bb-a6b0-4580-b8c0-f077dad19b37">
+
 
 
