@@ -68,6 +68,7 @@ Use lsblk command to inspect what block devices are attached to the server. Noti
 ```bash
 lsblk
 ```
+<img width="472" alt="Screenshot 2023-08-14 220121" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/9d5bc446-4d34-4554-9cbb-2926638a6c69">
 
 Use df -h command to see all mounts and free space on your server
 
