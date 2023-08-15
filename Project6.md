@@ -125,3 +125,8 @@ Use vgcreate utility to add all 3 PVs to a volume group (VG). Name the VG webdat
 sudo vgcreate webdata-vg /dev/xvdh1 /dev/xvdg1 /dev/xvdf1
 ```
 <img width="471" alt="Screenshot 2023-08-15 175414" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/e294d374-7655-452a-a9b7-569ecd572b89">
+
+Verify that your VG has been created successfully by running
+```bash
+sudo vgs
+```
