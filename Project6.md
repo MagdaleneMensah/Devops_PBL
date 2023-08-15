@@ -119,3 +119,8 @@ Verify that your Physical volume has been created successfully by running sudo p
 sudo pvs
 ```
 <img width="308" alt="Screenshot 2023-08-15 174813" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/8da34c94-6ca8-424b-9035-c892e4875887">
+
+Use vgcreate utility to add all 3 PVs to a volume group (VG). Name the VG webdata-vg
+```bash
+sudo vgcreate webdata-vg /dev/xvdh1 /dev/xvdg1 /dev/xvdf1
+```
