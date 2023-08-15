@@ -52,7 +52,14 @@ Create 3 volumes in the same AZ as your Web Server EC2, each of 10 GiB.
 <img width="948" alt="image" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/d2c1e66b-0c4b-4120-a610-f11c6946d642">
 
 
-Open up the Linux terminal to begin configuration
+Open up the Linux terminal to begin configuration your Web-server
+
+```bash
+sudo su
+hostname Web-server
+bash
+```
+<img width="462" alt="Screenshot 2023-08-14 212042" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/1021431e-75f0-4234-b9ec-2f303176b71d">
 
 Use lsblk command to inspect what block devices are attached to the server. Notice names of your newly created devices. All devices in Linux reside in /dev/ directory. Inspect it with ls /dev/ and make sure you see all 3 newly created block devices there – their names will likely be xvdf, xvdh, xvdg.
 
