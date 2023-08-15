@@ -106,3 +106,7 @@ sudo lvmdiskscan
 <img width="332" alt="Screenshot 2023-08-15 135851" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/643bdd33-9ecf-4038-be90-bb351f954167">
 
 Use pvcreate utility to mark each of 3 disks as physical volumes (PVs) to be used by LVM
+
+```bash
+sudo pvcreate /dev/xvdf1 /dev/xvdg1 /dev/xvdh1
+```
