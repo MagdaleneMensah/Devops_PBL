@@ -93,6 +93,6 @@ sudo gdisk /dev/xvdg
 <img width="471" alt="Screenshot 2023-08-15 124243" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/6bd1503d-759f-4bd4-ac57-68b2e545f5fa">
 
 ```bash
- sudo yum install lvm2
+ sudo yum install lvm2 -y
 ```
 <img width="472" alt="Screenshot 2023-08-15 134710" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/9803a2fc-4087-4903-b0f1-3f658dc45542">
