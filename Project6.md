@@ -100,3 +100,4 @@ sudo gdisk /dev/xvdg
 ```bash
 sudo lvmdiskscan
 ```
+<img width="332" alt="Screenshot 2023-08-15 135851" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/643bdd33-9ecf-4038-be90-bb351f954167">
