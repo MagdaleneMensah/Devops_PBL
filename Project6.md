@@ -65,7 +65,9 @@ bash
 
 Use lsblk command to inspect what block devices are attached to the server. Notice names of your newly created devices. All devices in Linux reside in /dev/ directory. Inspect it with ls /dev/ and make sure you see all 3 newly created block devices there – their names will likely be xvdf, xvdh, xvdg.
 
-<img width="469" alt="Screenshot 2023-07-30 181642" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/f70d318c-72ef-4b96-8803-34aa2c40a2ba">
+```bash
+lsblk
+```
 
 Use df -h command to see all mounts and free space on your server
 
