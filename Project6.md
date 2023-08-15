@@ -71,7 +71,10 @@ lsblk
 <img width="472" alt="Screenshot 2023-08-14 220121" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/9d5bc446-4d34-4554-9cbb-2926638a6c69">
 
 Use df -h command to see all mounts and free space on your server
-
+```bash
+df -h
+```
+<img width="370" alt="Screenshot 2023-08-14 220705" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/2b61d08a-136b-480b-9689-588271daef8a">
 
 
 
