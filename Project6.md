@@ -49,6 +49,8 @@ Create 3 volumes in the same AZ as your Web Server EC2, each of 10 GiB.
 <img width="945" alt="Screenshot 2023-08-14 202453" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/c95cf5de-0da5-49dc-86c8-c9359395574b">
 
 <img width="840" alt="Screenshot 2023-08-14 110228" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/afcabae3-227b-4c9b-be83-22864c0a3e88">
+<img width="948" alt="image" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/d2c1e66b-0c4b-4120-a610-f11c6946d642">
+
 
 Open up the Linux terminal to begin configuration
 
