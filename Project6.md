@@ -118,3 +118,4 @@ Verify that your Physical volume has been created successfully by running sudo p
 ```bash
 sudo pvs
 ```
+<img width="308" alt="Screenshot 2023-08-15 174813" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/8da34c94-6ca8-424b-9035-c892e4875887">
