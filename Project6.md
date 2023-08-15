@@ -136,3 +136,6 @@ Use lvcreate utility to create 2 logical volumes. apps-lv (Use half of the PV si
 
 sudo lvcreate -n apps-lv -L 14G webdata-vg
 <img width="472" alt="Screenshot 2023-08-15 184532" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/615311ab-afeb-4991-afd0-0731d752f42a">
+
+sudo lvcreate -n logs-lv -L 14G webdata-vg
+<img width="472" alt="Screenshot 2023-08-15 184932" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/46a72ede-8c60-4774-a1e9-1fd1fc5ee39e">
