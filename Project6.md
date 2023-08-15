@@ -113,3 +113,8 @@ Use pvcreate utility to mark each of 3 disks as physical volumes (PVs) to be use
 sudo pvcreate /dev/xvdf1 /dev/xvdg1 /dev/xvdh1
 ```
 <img width="472" alt="Screenshot 2023-08-15 174318" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/5603bbb2-f007-46d6-974a-6ee73a3bdb6c">
+
+Verify that your Physical volume has been created successfully by running sudo pvs
+```bash
+sudo pvs
+```
