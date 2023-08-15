@@ -131,3 +131,8 @@ Verify that your VG has been created successfully by running
 sudo vgs
 ```
 <img width="328" alt="Screenshot 2023-08-15 175748" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/27e3ffcb-207e-4c20-b9fd-528a7e67e2cc">
+
+Use lvcreate utility to create 2 logical volumes. apps-lv (Use half of the PV size), and logs-lv Use the remaining space of the PV size. NOTE: apps-lv will be used to store data for the Website while, logs-lv will be used to store data for logs.
+
+sudo lvcreate -n apps-lv -L 14G webdata-vg
+<img width="472" alt="Screenshot 2023-08-15 184532" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/615311ab-afeb-4991-afd0-0731d752f42a">
