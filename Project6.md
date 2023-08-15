@@ -98,12 +98,14 @@ Note: Previously, in Ubuntu we used apt command to install packages, in RedHat/C
 ```bash
  sudo yum install lvm2 -y
 ```
-<img width="472" alt="Screenshot 2023-08-15 134710" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/9803a2fc-4087-4903-b0f1-3f658dc45542">
+<img width="470" alt="Screenshot 2023-08-15 173737" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/ff7aee48-081b-4910-8aa0-e15d8f72ffad">
+
 
 ```bash
 sudo lvmdiskscan
 ```
-<img width="332" alt="Screenshot 2023-08-15 135851" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/643bdd33-9ecf-4038-be90-bb351f954167">
+<img width="341" alt="Screenshot 2023-08-15 174042" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/effcb50d-7b08-4a7b-964f-5594b5620135">
+
 
 Use pvcreate utility to mark each of 3 disks as physical volumes (PVs) to be used by LVM
 
