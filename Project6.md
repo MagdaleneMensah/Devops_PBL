@@ -80,7 +80,7 @@ Use gdisk utility to create a single partition on each of the 3 disks
 ```bash
 sudo gdisk /dev/xvdf
 ```
-
+<img width="462" alt="Screenshot 2023-08-14 222102" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/d7eb13f0-236b-4f7a-b1ee-5fe6f7ec8469">
 
 
 
