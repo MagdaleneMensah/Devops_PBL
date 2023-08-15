@@ -43,7 +43,10 @@ Note: for Ubuntu server, when connecting to it via SSH/Putty or any other tool, 
 Let us get started!
 
 ## Step 1 — Prepare a Web Server
-Launch an EC2 instance that will serve as “Web Server”. Create 3 volumes in the same AZ as your Web Server EC2, each of 10 GiB.
+Launch an EC2 instance that will serve as “Web Server”.
+
+Create 3 volumes in the same AZ as your Web Server EC2, each of 10 GiB.
+<img width="945" alt="Screenshot 2023-08-14 202453" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/c95cf5de-0da5-49dc-86c8-c9359395574b">
 
 <img width="840" alt="Screenshot 2023-08-14 110228" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/afcabae3-227b-4c9b-be83-22864c0a3e88">
 
