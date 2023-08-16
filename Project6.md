@@ -232,3 +232,11 @@ sudo systemctl daemon-reload
 ```
 <img width="407" alt="Screenshot 2023-08-16 182734" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/d2b5ddd4-bebe-4f7d-821e-3e6d3a55861c">
 
+Verify your setup by running df -h, output must look like this:
+```bash
+df -h
+```
+<img width="470" alt="Screenshot 2023-08-16 183203" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/3567482d-d19b-4137-bfef-b5440dca97e3">
+
+
+
