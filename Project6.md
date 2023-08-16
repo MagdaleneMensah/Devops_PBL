@@ -191,6 +191,12 @@ sudo mount /dev/webdata-vg/apps-lv /var/www/html/
 ```
 <img width="470" alt="image" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/b9fd75e5-02c2-4b6a-8401-183340d30282">
 
+Use rsync utility to backup all the files in the log directory /var/log into /home/recovery/logs (This is required before mounting the file system)
+```bash
+sudo rsync -av /var/log/. /home/recovery/logs/
+```
+<img width="473" alt="Screenshot 2023-08-15 203027" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/21f29121-3b81-41f3-8d8a-f79dd69292b7">
+
 
 
 
