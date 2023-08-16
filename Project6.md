@@ -221,6 +221,10 @@ sudo vi /etc/fstab
 ```
 <img width="479" alt="Screenshot 2023-08-15 205838" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/df3c13a6-e3cb-4ca8-95bc-cea8088f6278">
 
+```bash
+sudo mount -a
+```
+<img width="315" alt="Screenshot 2023-08-15 230439" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/54cbfb12-ccaa-422c-ad9f-fac6d9bafbb2">
 
 
 
