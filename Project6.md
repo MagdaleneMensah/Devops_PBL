@@ -216,7 +216,9 @@ sudo blkid
 ```
 <img width="467" alt="Screenshot 2023-08-15 205406" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/16dcb942-f49f-40c2-b823-6bc1ec1c9e4c">
 
-
+```bash
+sudo vi /etc/fstab
+```
 
 
 
