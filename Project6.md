@@ -173,4 +173,12 @@ sudo mkfs -t ext4 /dev/webdata-vg/logs-lv
 ```
 <img width="474" alt="Screenshot 2023-08-15 194535" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/5672247f-7879-4f71-a8d3-b167feb652a1">
 
+Create /var/www/html directory to store website files
+```bash
+sudo mkdir -p /var/www/html
+```
+<img width="386" alt="Screenshot 2023-08-15 195124" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/503655c4-e7f4-463e-a699-d0eb56e9234f">
+
+
+
 
