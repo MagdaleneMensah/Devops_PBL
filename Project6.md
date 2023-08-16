@@ -189,6 +189,8 @@ Mount /var/www/html on apps-lv logical volume
 ```bash
 sudo mount /dev/webdata-vg/apps-lv /var/www/html/
 ```
+<img width="470" alt="image" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/b9fd75e5-02c2-4b6a-8401-183340d30282">
+
 
 
 
