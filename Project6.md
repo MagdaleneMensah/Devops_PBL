@@ -230,4 +230,5 @@ sudo mount -a
 ```bash
 sudo systemctl daemon-reload
 ```
+<img width="407" alt="Screenshot 2023-08-16 182734" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/d2b5ddd4-bebe-4f7d-821e-3e6d3a55861c">
 
