@@ -150,3 +150,10 @@ Verify that your Logical Volume has been created successfully by running sudo lv
 sudo lvs
 ```
 <img width="472" alt="Screenshot 2023-08-15 185625" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/fe1eadab-4a8f-49eb-8d6e-26007543d3c0">
+
+Verify the entire setup
+```bash
+sudo vgdisplay -v #view complete setup - VG, PV, and LV
+```
+<img width="472" alt="Screenshot 2023-08-15 193039" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/cf6ff20e-860b-42b3-b217-8b05bb94dab3">
+
