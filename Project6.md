@@ -203,6 +203,12 @@ sudo mount /dev/webdata-vg/logs-lv /var/log
 ```
 <img width="472" alt="Screenshot 2023-08-15 203458" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/0bab25bd-a290-460f-850d-d05c60863600">
 
+Restore log files back into /var/log directory
+```bash
+sudo rsync -av /home/recovery/logs/log/. /var/log
+```
+<img width="472" alt="Screenshot 2023-08-15 204007" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/723dde1d-0a6c-40f9-a8e1-80baf68481d0">
+
 
 
 
