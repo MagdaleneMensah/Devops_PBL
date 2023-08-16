@@ -157,3 +157,9 @@ sudo vgdisplay -v #view complete setup - VG, PV, and LV
 ```
 <img width="472" alt="Screenshot 2023-08-15 193039" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/cf6ff20e-860b-42b3-b217-8b05bb94dab3">
 
+```bash
+sudo lsblk
+```
+<img width="428" alt="Screenshot 2023-08-15 193412" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/a4fc6167-1740-4a98-b141-de28512aaf63">
+
+
