@@ -197,6 +197,14 @@ sudo rsync -av /var/log/. /home/recovery/logs/
 ```
 <img width="473" alt="Screenshot 2023-08-15 203027" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/21f29121-3b81-41f3-8d8a-f79dd69292b7">
 
+Mount /var/log on logs-lv logical volume. (Note that all the existing data on /var/log will be deleted. That is why step 15 above is very important)
+```bash
+sudo mount /dev/webdata-vg/logs-lv /var/log
+```
+<img width="472" alt="Screenshot 2023-08-15 203458" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/0bab25bd-a290-460f-850d-d05c60863600">
+
+
+
 
 
 
