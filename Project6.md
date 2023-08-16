@@ -162,4 +162,11 @@ sudo lsblk
 ```
 <img width="428" alt="Screenshot 2023-08-15 193412" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/a4fc6167-1740-4a98-b141-de28512aaf63">
 
+Use mkfs.ext4 to format the logical volumes with ext4 filesystem
+```bash
+sudo mkfs -t ext4 /dev/webdata-vg/apps-lv
+```
+<img width="470" alt="Screenshot 2023-08-15 193956" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/0e294870-6a4f-4e85-9581-c01a783eab18">
+
+
 
