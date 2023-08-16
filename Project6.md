@@ -171,5 +171,6 @@ sudo mkfs -t ext4 /dev/webdata-vg/apps-lv
 ```bash
 sudo mkfs -t ext4 /dev/webdata-vg/logs-lv
 ```
+<img width="474" alt="Screenshot 2023-08-15 194535" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/5672247f-7879-4f71-a8d3-b167feb652a1">
 
 
