@@ -179,6 +179,13 @@ sudo mkdir -p /var/www/html
 ```
 <img width="386" alt="Screenshot 2023-08-15 195124" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/503655c4-e7f4-463e-a699-d0eb56e9234f">
 
+Create /home/recovery/logs to store backup of log data
+```bash
+sudo mkdir -p /home/recovery/logs
+```
+<img width="414" alt="Screenshot 2023-08-15 195543" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/d2381cb5-184c-41e7-8347-ed73fc36af6f">
+
+
 
 
 
