@@ -185,7 +185,10 @@ sudo mkdir -p /home/recovery/logs
 ```
 <img width="414" alt="Screenshot 2023-08-15 195543" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/d2381cb5-184c-41e7-8347-ed73fc36af6f">
 
-
+Mount /var/www/html on apps-lv logical volume
+```bash
+sudo mount /dev/webdata-vg/apps-lv /var/www/html/
+```
 
 
 
