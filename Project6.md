@@ -209,6 +209,12 @@ sudo rsync -av /home/recovery/logs/log/. /var/log
 ```
 <img width="472" alt="Screenshot 2023-08-15 204007" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/723dde1d-0a6c-40f9-a8e1-80baf68481d0">
 
+Update /etc/fstab file so that the mount configuration will persist after restart of the server.
+The UUID of the device will be used to update the /etc/fstab file;
+```bash
+sudo blkid
+```
+<img width="467" alt="Screenshot 2023-08-15 205406" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/16dcb942-f49f-40c2-b823-6bc1ec1c9e4c">
 
 
 
