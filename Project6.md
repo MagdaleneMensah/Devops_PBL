@@ -250,3 +250,12 @@ Create three Volumes:
 
 Attach Volumes one at a time to the DB-Server:
 <img width="821" alt="Screenshot 2023-08-16 202443" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/acdfa14f-5eb6-49ea-b793-db625fd2636f">
+
+Open up the Linux terminal to begin configuration your DB-Server
+```bash
+sudo su
+hostname DB-Server
+bash
+```
+<img width="524" alt="Screenshot 2023-08-16 203826" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/67eccfe6-2467-4c73-b035-2056f0169b5e">
+
