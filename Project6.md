@@ -247,3 +247,6 @@ Repeat the same steps as for the Web Server, but instead of apps-lv create db-lv
 
 Create three Volumes:
 <img width="812" alt="Screenshot 2023-08-16 201018" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/dd680bc3-cc18-4929-8ea7-319da3e0f41b">
+
+Attach Volumes one at a time to the DB-Server:
+<img width="821" alt="Screenshot 2023-08-16 202443" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/acdfa14f-5eb6-49ea-b793-db625fd2636f">
