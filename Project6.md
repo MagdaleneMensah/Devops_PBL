@@ -322,5 +322,11 @@ sudo vgcreate database-vg /dev/xvdh1 /dev/xvdg1 /dev/xvdf1
 ```
 <img width="470" alt="Screenshot 2023-08-16 230219" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/c40e5a7c-0ae7-4305-bd46-24f9e760dec8">
 
+```bash
+sudo vgs
+```
+<img width="325" alt="Screenshot 2023-08-16 230627" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/2d9ceaca-7275-4af4-bd20-9ce84d84eb57">
+
+
 
 
