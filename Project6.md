@@ -292,3 +292,5 @@ sudo gdisk /dev/xvdg
 lsblk
 ```
 <img width="374" alt="Screenshot 2023-08-16 221905" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/8ad74aa1-b1ac-4ad6-ad5b-f1de1a981162">
+
+Install lvm2 package using sudo yum install lvm2. Run sudo lvmdiskscan command to check for available partitions. Note: Previously, in Ubuntu we used apt command to install packages, in RedHat/CentOS a different package manager is used, so we shall use yum command instead.
