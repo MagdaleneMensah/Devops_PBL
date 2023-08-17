@@ -278,3 +278,7 @@ sudo gdisk /dev/xvdf
 ```
 <img width="457" alt="Screenshot 2023-08-16 205858" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/bad028f3-d5d1-46ca-971e-7f905393010f">
 
+```bash
+sudo gdisk /dev/xvdg
+```
+<img width="472" alt="Screenshot 2023-08-16 220528" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/76e3ee98-59c4-45ac-8685-c6e028501351">
