@@ -300,3 +300,9 @@ Install lvm2 package using sudo yum install lvm2. Run sudo lvmdiskscan command t
 ```
 <img width="473" alt="Screenshot 2023-08-16 222452" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/bf484d1d-bb1a-4e0f-b7b9-badf7f520625">
 
+```bash
+sudo lvmdiskscan
+```
+<img width="365" alt="Screenshot 2023-08-16 223024" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/8bdad833-26e4-43e2-8606-0075a04deaf5">
+
+
