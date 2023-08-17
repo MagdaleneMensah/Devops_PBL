@@ -245,3 +245,5 @@ Prepare the Database Server
 Launch a second RedHat EC2 instance that will have a role – ‘DB Server’
 Repeat the same steps as for the Web Server, but instead of apps-lv create db-lv and mount it to /db directory instead of /var/www/html/.
 
+Create three Volumes:
+<img width="812" alt="Screenshot 2023-08-16 201018" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/dd680bc3-cc18-4929-8ea7-319da3e0f41b">
