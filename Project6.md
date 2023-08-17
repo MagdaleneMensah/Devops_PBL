@@ -259,3 +259,9 @@ bash
 ```
 <img width="524" alt="Screenshot 2023-08-16 203826" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/67eccfe6-2467-4c73-b035-2056f0169b5e">
 
+Use lsblk command to inspect what block devices are attached to the server. Notice names of your newly created devices. All devices in Linux reside in /dev/ directory. Inspect it with ls /dev/ and make sure you see all 3 newly created block devices there – their names will likely be xvdf, xvdh, xvdg.
+
+```bash
+lsblk
+```
+<img width="321" alt="Screenshot 2023-08-16 204242" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/c6486e30-b6c8-4137-849e-02bf83accbc4">
