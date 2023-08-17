@@ -305,4 +305,10 @@ sudo lvmdiskscan
 ```
 <img width="365" alt="Screenshot 2023-08-16 223024" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/8bdad833-26e4-43e2-8606-0075a04deaf5">
 
+```bash
+sudo pvcreate /dev/xvdf1 /dev/xvdg1 /dev/xvdh1
+```
+<img width="473" alt="Screenshot 2023-08-16 223331" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/61791eca-491c-4a09-96b7-1789a20d8ade">
+
+
 
