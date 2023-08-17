@@ -310,5 +310,10 @@ sudo pvcreate /dev/xvdf1 /dev/xvdg1 /dev/xvdh1
 ```
 <img width="473" alt="Screenshot 2023-08-16 223331" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/61791eca-491c-4a09-96b7-1789a20d8ade">
 
+Verify that your Physical volume has been created successfully by running sudo pvs
+```bash
+sudo pvs
+```
+<img width="440" alt="Screenshot 2023-08-16 225531" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/f076e58c-dc72-4b01-8df3-b9b7c759272d">
 
 
