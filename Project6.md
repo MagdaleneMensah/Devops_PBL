@@ -320,6 +320,7 @@ Use vgcreate utility to add all 3 PVs to a volume group (VG). Name the VG databa
 ```bash
 sudo vgcreate database-vg /dev/xvdh1 /dev/xvdg1 /dev/xvdf1
 ```
+<img width="470" alt="Screenshot 2023-08-16 230219" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/c40e5a7c-0ae7-4305-bd46-24f9e760dec8">
 
 
 
