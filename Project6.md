@@ -316,4 +316,7 @@ sudo pvs
 ```
 <img width="440" alt="Screenshot 2023-08-16 225531" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/f076e58c-dc72-4b01-8df3-b9b7c759272d">
 
+Use vgcreate utility to add all 3 PVs to a volume group (VG). Name the VG database-vg
+
+
 
