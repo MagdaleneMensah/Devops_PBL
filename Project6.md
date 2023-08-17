@@ -239,4 +239,6 @@ df -h
 <img width="470" alt="Screenshot 2023-08-16 183203" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/3567482d-d19b-4137-bfef-b5440dca97e3">
 
 
+## PREPARE THE DATABASE SERVER
+
 
