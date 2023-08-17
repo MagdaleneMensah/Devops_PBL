@@ -287,3 +287,8 @@ sudo gdisk /dev/xvdg
 sudo gdisk /dev/xvdg
 ```
 <img width="474" alt="Screenshot 2023-08-16 221538" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/588b616c-5187-4a29-bf03-49018a8fcf90">
+
+```bash
+lsblk
+```
+<img width="374" alt="Screenshot 2023-08-16 221905" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/8ad74aa1-b1ac-4ad6-ad5b-f1de1a981162">
