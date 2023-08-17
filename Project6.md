@@ -271,3 +271,5 @@ Use df -h command to see all mounts and free space on your server
 df -h
 ```
 <img width="364" alt="Screenshot 2023-08-16 204704" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/493400f9-7d41-448e-bf95-c45c9f9fb901">
+
+Use gdisk utility to create a single partition on each of the 3 disks
