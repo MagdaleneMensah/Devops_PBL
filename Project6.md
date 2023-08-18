@@ -342,5 +342,10 @@ sudo mkfs.ext4 /dev/database-vg/db-lv
 ```
 <img width="470" alt="Screenshot 2023-08-17 220535" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/986e542c-5241-447f-9437-e4079e45abdb">
 
+```bash
+sudo mount /dev/database-vg/db-lv /db
+```
+<img width="443" alt="Screenshot 2023-08-17 221332" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/a9215a2d-8477-446b-9a2d-e408adba343a">
+
 
 
