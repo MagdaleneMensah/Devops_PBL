@@ -352,6 +352,12 @@ df -h
 ```
 <img width="470" alt="Screenshot 2023-08-17 223355" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/8cbfce7b-8ad2-4957-aa2e-3b4902e1da29">
 
+```bash
+sudo blkid
+```
+<img width="474" alt="Screenshot 2023-08-17 223759" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/9ba2fa7a-de35-4a51-a528-d6e49ba32518">
+
+
 
 
 
