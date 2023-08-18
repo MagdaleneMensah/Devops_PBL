@@ -347,5 +347,11 @@ sudo mount /dev/database-vg/db-lv /db
 ```
 <img width="443" alt="Screenshot 2023-08-17 221332" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/a9215a2d-8477-446b-9a2d-e408adba343a">
 
+```bash
+df -h
+```
+<img width="470" alt="Screenshot 2023-08-17 223355" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/8cbfce7b-8ad2-4957-aa2e-3b4902e1da29">
+
+
 
 
