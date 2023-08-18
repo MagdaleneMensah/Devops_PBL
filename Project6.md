@@ -372,6 +372,11 @@ sudo systemctl daemon-reload
 ```
 <img width="392" alt="Screenshot 2023-08-17 230855" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/00c0e012-03da-4166-b42d-24e7325678e7">
 
+```bash
+df -h
+```
+<img width="463" alt="Screenshot 2023-08-17 231606" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/3339c11e-b308-434f-9fa7-efbe262dfc7f">
+
 
 
 
