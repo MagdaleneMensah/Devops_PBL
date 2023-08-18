@@ -327,6 +327,8 @@ sudo vgs
 ```
 <img width="325" alt="Screenshot 2023-08-16 230627" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/2d9ceaca-7275-4af4-bd20-9ce84d84eb57">
 
-
+```bash
+lvcreate -n db-lv -l 20G vg-database
+```
 
 
