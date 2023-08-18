@@ -332,4 +332,9 @@ sudo lvcreate -n db-lv -L 20G database-vg
 ```
 <img width="467" alt="Screenshot 2023-08-17 215314" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/472faf3a-12f4-4bbc-80df-075d819ef7fd">
 
+```bash
+sudo mkdir /db
+```
+<img width="281" alt="Screenshot 2023-08-17 215716" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/311374b5-f667-4c90-aae1-15ff879df88d">
+
 
