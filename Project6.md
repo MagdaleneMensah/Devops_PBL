@@ -367,6 +367,11 @@ sudo mount -a
 ```
 <img width="293" alt="Screenshot 2023-08-17 230008" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/d93de0dc-685c-4328-9299-814214fa43ce">
 
+```bash
+sudo systemctl daemon-reload
+```
+<img width="392" alt="Screenshot 2023-08-17 230855" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/00c0e012-03da-4166-b42d-24e7325678e7">
+
 
 
 
