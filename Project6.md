@@ -469,6 +469,48 @@ sudo systemctl restart httpd
 <img width="413" alt="Screenshot 2023-08-21 182207" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/2fef884c-f948-45e1-b0d8-f94ea2849f3e">
 
 
+## Download wordpress and copy wordpress to var/www/html
+
+```bash
+  mkdir wordpress
+```
+<img width="290" alt="Screenshot 2023-08-21 182934" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/8be761fe-e242-45ce-aa7b-21f06226cb7a">
+
+
+```bash
+  cd   wordpress
+```
+<img width="295" alt="Screenshot 2023-08-21 183137" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/eb1e08cb-075d-454f-984e-b3c2625cfe85">
+
+
+```bash
+  sudo wget http://wordpress.org/latest.tar.gz
+```
+<img width="472" alt="Screenshot 2023-08-21 183919" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/f199c547-d509-4c4d-8049-6173f7bc0497">
+
+
+```bash
+  sudo tar xzvf latest.tar.gz
+```
+<img width="470" alt="Screenshot 2023-08-21 184132" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/c0c636ee-f3e0-4fb4-abaf-14fbf3c5c8ec">
+
+
+```bash
+  sudo rm -rf latest.tar.gz
+```
+<img width="376" alt="Screenshot 2023-08-21 184407" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/3afc1a07-0fd6-43a8-ad83-24b132ec3d6f">
+
+```bash
+  cp wordpress/wp-config-sample.php wordpress/wp-config.php
+```
+<img width="470" alt="Screenshot 2023-08-21 184812" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/9a673b6f-7a01-4549-a910-a3605739f1e2">
+
+
+```bash
+  cp -R wordpress /var/www/html/
+```
+
+<img width="418" alt="Screenshot 2023-08-21 185031" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/97c2f77e-d8eb-49dd-97e5-dafdda58b7cc">
 
 
 
