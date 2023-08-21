@@ -395,6 +395,7 @@ sudo yum -y install wget httpd php php-mysqlnd php-fpm php-json
 ```bash
  sudo dnf install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
 ```
+<img width="472" alt="Screenshot 2023-08-21 001624" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/395e3732-ee21-4699-acc5-2d333cc23a42">
 
 
 
