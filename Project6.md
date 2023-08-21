@@ -428,18 +428,33 @@ sudo yum module reset php
 ```bash
 sudo yum module enable php:remi-7.4
 ```
+<img width="472" alt="Screenshot 2023-08-21 180314" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/2cf61249-2e39-4a37-bb66-b9bb288fbe95">
+
 
 ```bash
 sudo yum install php php-opcache php-gd php-curl php-mysqlnd
 ```
+<img width="472" alt="Screenshot 2023-08-21 180528" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/8fa1f39c-b902-4355-a1fe-7b0038afacee">
+
 
 ```bash
 sudo systemctl start php-fpm
 ```
+<img width="411" alt="Screenshot 2023-08-21 180728" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/e959900a-4b47-4971-9799-8f179e3cf6cd">
+
 
 ```bash
-sudo systemctl enable php-fpm setsebool -P httpd_execmem 1
+sudo systemctl enable php-fpm 
 ```
+<img width="392" alt="Screenshot 2023-08-21 180947" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/54a47823-2b29-4b37-b25d-1eef519aea0a">
+
+
+```bash
+sudo setsebool -P httpd_execmem 1
+```
+
+<img width="419" alt="Screenshot 2023-08-21 181411" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/e8c4350e-a001-454a-9489-be009009abfe">
+
 
 
 
