@@ -392,14 +392,17 @@ sudo yum -y install wget httpd php php-mysqlnd php-fpm php-json
 <img width="476" alt="Screenshot 2023-08-21 001308" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/a7de4bd8-7f73-49ed-8d09-1072286779af">
 
 
+## Start Apache
 ```bash
- sudo dnf install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
+sudo systemctl enable httpd
 ```
-<img width="472" alt="Screenshot 2023-08-21 001624" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/395e3732-ee21-4699-acc5-2d333cc23a42">
+<img width="472" alt="Screenshot 2023-08-21 133207" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/f1225584-fd83-4830-aa83-56b1cd90774b">
 
 ```bash
-sudo dnf install dnf-utils http://rpms.remirepo.net/enterprise/remi-release-8.rpm
+sudo systemctl start httpd
 ```
+<img width="401" alt="Screenshot 2023-08-21 133351" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/7ce3b604-bfd0-4939-a02a-b5fb3920dec5">
+
 
 
 
