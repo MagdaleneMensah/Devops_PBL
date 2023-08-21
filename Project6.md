@@ -386,9 +386,14 @@ sudo yum update -y
 
 ## Install wget, Apache and it’s dependencies
 ```bash
-sudo yum install -y wget httpd php php-mysqlnd php-fpm php-json
+sudo yum -y install wget httpd php php-mysqlnd php-fpm php-json
 ```
 <img width="459" alt="Screenshot 2023-08-20 235334" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/897cea6e-5159-4d8a-a5f7-55fafd40834f">
+
+```bash
+ sudo dnf install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
+```
+
 
 
 
