@@ -377,6 +377,17 @@ df -h
 ```
 <img width="463" alt="Screenshot 2023-08-17 231606" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/3339c11e-b308-434f-9fa7-efbe262dfc7f">
 
+##  Install WordPress on your Web Server EC2
+
+Update the repository
+```bash
+sudo yum update -y
+```
+
+
+
+
+
 
 
 
