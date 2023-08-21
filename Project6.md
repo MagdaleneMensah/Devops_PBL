@@ -404,6 +404,44 @@ sudo systemctl start httpd
 <img width="401" alt="Screenshot 2023-08-21 133351" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/7ce3b604-bfd0-4939-a02a-b5fb3920dec5">
 
 
+## To install PHP and it’s depemdencies
+```bash
+sudo yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
+```
+<img width="472" alt="Screenshot 2023-08-21 133949" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/6b5fd5ae-707f-4b43-9c9a-650e6a3ba355">
+
+```bash
+sudo yum install yum-utils http://rpms.remirepo.net/enterprise/remi-release-8.rpm
+```
+
+```bash
+sudo yum module list php
+```
+<img width="470" alt="Screenshot 2023-08-21 140650" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/7a8b6d02-f19b-4c3b-9ad1-fd7802152ee8">
+
+```bash
+sudo yum module reset php
+```
+<img width="473" alt="Screenshot 2023-08-21 140919" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/7942181e-aee0-4abb-816e-fbb40347e271">
+
+
+```bash
+sudo yum module enable php:remi-7.4
+```
+
+```bash
+sudo yum install php php-opcache php-gd php-curl php-mysqlnd
+```
+
+```bash
+sudo systemctl start php-fpm
+```
+
+```bash
+sudo systemctl enable php-fpm setsebool -P httpd_execmem 1
+```
+
+
 
 
 
