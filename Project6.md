@@ -461,6 +461,17 @@ sudo systemctl status php-fpm
 <img width="472" alt="Screenshot 2023-08-21 181739" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/d67d22cd-7b0c-4d96-995b-8f50006fbfe4">
 
 
+## Restart Apache
+```bash
+sudo systemctl restart httpd
+```
+
+<img width="413" alt="Screenshot 2023-08-21 182207" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/2fef884c-f948-45e1-b0d8-f94ea2849f3e">
+
+
+
+
+
 
 
 
