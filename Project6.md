@@ -455,6 +455,10 @@ sudo setsebool -P httpd_execmem 1
 
 <img width="419" alt="Screenshot 2023-08-21 181411" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/e8c4350e-a001-454a-9489-be009009abfe">
 
+```bash
+sudo systemctl status php-fpm
+```
+<img width="472" alt="Screenshot 2023-08-21 181739" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/d67d22cd-7b0c-4d96-995b-8f50006fbfe4">
 
 
 
