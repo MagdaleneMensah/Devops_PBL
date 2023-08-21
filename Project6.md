@@ -384,6 +384,13 @@ Update the repository
 sudo yum update -y
 ```
 
+## Install wget, Apache and it’s dependencies
+```bash
+sudo yum install -y wget httpd php php-mysqlnd php-fpm php-json
+```
+
+
+
 
 
 
