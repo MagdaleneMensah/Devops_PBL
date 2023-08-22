@@ -512,6 +512,26 @@ sudo systemctl restart httpd
 
 <img width="418" alt="Screenshot 2023-08-21 185031" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/97c2f77e-d8eb-49dd-97e5-dafdda58b7cc">
 
+## Configure SELinux Policies
+
+```bash
+  sudo chown -R apache:apache /var/www/html/wordpress
+```
+<img width="470" alt="Screenshot 2023-08-21 190625" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/a28c8fd2-2591-4eac-aadc-133c1de2d2a2">
+
+
+```bash
+  sudo chcon -t httpd_sys_rw_content_t /var/www/html/wordpress -R
+```
+<img width="472" alt="Screenshot 2023-08-21 191614" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/caf587d1-046e-4a68-bd84-5456daa30817">
+
+```bash
+  sudo setsebool -P httpd_can_network_connect=1
+```
+<img width="473" alt="Screenshot 2023-08-21 191803" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/40504abf-ebbf-4182-96fd-ad54cd46f544">
+
+
+
 
 
 
