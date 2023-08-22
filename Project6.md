@@ -543,6 +543,25 @@ sudo yum install mysql-server -y
 <img width="379" alt="Screenshot 2023-08-21 193819" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/d90939b2-fa99-4ac1-834f-d50e79b4011f">
 
 
+## Verify that the service is up and running by using sudo systemctl status mysqld, if it is not running, restart the service and enable it so it will be running even after reboot:
+
+```bash
+sudo systemctl status mysqld
+```
+<img width="472" alt="Screenshot 2023-08-21 194931" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/44bca975-69b0-4cd1-b0b2-0a7429f119dc">
+
+
+```bash
+sudo systemctl restart mysqld
+```
+<img width="396" alt="Screenshot 2023-08-21 195140" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/dc0cfce8-af29-44e9-a5ca-7bf0f40728b1">
+
+
+```bash
+sudo systemctl enable mysqld
+```
+<img width="470" alt="Screenshot 2023-08-21 195500" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/84838fa1-971e-47da-9208-a2cab36efac0">
+
 
 
 
