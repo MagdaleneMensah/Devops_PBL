@@ -562,7 +562,42 @@ sudo systemctl enable mysqld
 ```
 <img width="470" alt="Screenshot 2023-08-21 195500" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/84838fa1-971e-47da-9208-a2cab36efac0">
 
+ ## Configure DB to work with WordPress
 
+ ```bash
+sudo mysql
+```
+<img width="469" alt="Screenshot 2023-08-21 200501" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/c800696f-8ce4-40ef-93b9-2cca89e96bd9">
+
+```bash
+CREATE DATABASE wordpress;
+```
+<img width="253" alt="Screenshot 2023-08-21 200758" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/29de2853-9053-4e3e-8f9f-f852af1d0ea3">
+
+```bash
+CREATE USER `myuser`@`<Web-Server-Private-IP-Address>` IDENTIFIED BY 'mypass';
+```
+<img width="472" alt="Screenshot 2023-08-21 201010" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/22e6593a-dd49-4947-a8ac-ae41e022e61b">
+
+```bash
+GRANT ALL ON wordpress.* TO 'myuser'@'<Web-Server-Private-IP-Address>';
+```
+<img width="471" alt="Screenshot 2023-08-21 201153" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/ea38122c-c3bc-41f5-ac5f-66d25c197303">
+
+```bash
+FLUSH PRIVILEGES;
+```
+<img width="311" alt="Screenshot 2023-08-21 201530" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/1852cfd8-cfe4-498f-8d05-266de563d6a2">
+
+```bash
+SHOW DATABASES;
+```
+<img width="362" alt="Screenshot 2023-08-21 201835" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/06fc828d-e59b-4268-ab5f-1ac1eb2f21b5">
+
+```bash
+exit
+```
+<img width="199" alt="Screenshot 2023-08-21 202029" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/34a991ac-7ff8-4dc3-9e3b-f857022816df">
 
 
 
