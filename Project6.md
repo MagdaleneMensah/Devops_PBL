@@ -530,6 +530,17 @@ sudo systemctl restart httpd
 ```
 <img width="473" alt="Screenshot 2023-08-21 191803" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/40504abf-ebbf-4182-96fd-ad54cd46f544">
 
+## Install MySQL on your DB Server EC2
+
+```bash
+sudo yum update -y
+```
+<img width="431" alt="Screenshot 2023-08-21 193539" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/7ac613e5-849a-4d4c-9f71-a0fc848a8398">
+
+```bash
+sudo yum install mysql-server -y
+```
+<img width="379" alt="Screenshot 2023-08-21 193819" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/d90939b2-fa99-4ac1-834f-d50e79b4011f">
 
 
 
