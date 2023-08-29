@@ -600,6 +600,10 @@ exit
 ```
 <img width="199" alt="Screenshot 2023-08-21 202029" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/34a991ac-7ff8-4dc3-9e3b-f857022816df">
 
+## Configure WordPress to connect to remote database.
+Hint: Do not forget to open MySQL port 3306 on DB Server EC2. For extra security, you shall allow access to the DB server ONLY from your Web Server’s IP address, so in the Inbound Rule configuration specify source as /32
+
+<img width="416" alt="Screenshot 2023-08-28 234125" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/5f419ab9-4f51-4975-9d81-ac37ddac76a6">
 
 
 
