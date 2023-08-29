@@ -1,4 +1,4 @@
-## WEB SOLUTION WITH WORDPRESS
+S## WEB SOLUTION WITH WORDPRESS
 
 You are progressing in practicing to implement web solutions using different technologies. As a DevOps engineer you will most probably encounter PHP-based solutions since, even in 2021, it is the dominant web programming language used by more websites than any other programming language.
 
@@ -592,7 +592,8 @@ FLUSH PRIVILEGES;
 ```bash
 SHOW DATABASES;
 ```
-<img width="362" alt="Screenshot 2023-08-21 201835" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/06fc828d-e59b-4268-ab5f-1ac1eb2f21b5">
+<img width="610" alt="Screenshot 2023-08-28 210342" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/fb76ef8a-97a2-4ce2-8226-35ad0aec9c52">
+
 
 ```bash
 exit
