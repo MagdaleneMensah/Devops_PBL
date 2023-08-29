@@ -605,6 +605,13 @@ Hint: Do not forget to open MySQL port 3306 on DB Server EC2. For extra security
 
 <img width="416" alt="Screenshot 2023-08-28 234125" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/5f419ab9-4f51-4975-9d81-ac37ddac76a6">
 
+## Install MySQL client and test that you can connect from your Web Server to your DB server by using mysql-client
+
+```bash
+sudo yum install mysql
+```
+<img width="632" alt="Screenshot 2023-08-28 235644" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/1a6f2074-5b48-47d8-a765-a0fe65b9ae06">
+
 
 
 
