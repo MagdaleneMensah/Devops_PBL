@@ -612,6 +612,11 @@ sudo yum install mysql
 ```
 <img width="632" alt="Screenshot 2023-08-28 235644" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/1a6f2074-5b48-47d8-a765-a0fe65b9ae06">
 
+Now edit mysql configuration file by typing sudo nano /etc/my.cnf. Add the following at the end of the file.
+```bash
+sudo nano /etc/my.cnf.
+```
+
 
 
 
