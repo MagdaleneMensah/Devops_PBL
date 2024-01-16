@@ -530,7 +530,7 @@ sudo systemctl restart httpd
 ```
 <img width="473" alt="Screenshot 2023-08-21 191803" src="https://github.com/MagdaleneMensah/DevopsmyAWS/assets/133181270/40504abf-ebbf-41
 
-
+<img width="1280" alt="2022-12-07 (1)" src="https://github.com/MagdaleneMensah/Devops_PBL/assets/133181270/fdeb825a-78fb-4536-9716-ca51f091f5f0">
 
 
 
